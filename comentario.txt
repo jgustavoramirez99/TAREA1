@@ -1,5 +1,3 @@
 Primera linea de comando
 Mi nombre es Gustavo Ramirez
-Tengo 27 años de edad
-Estoy aprendiendo Ing. de sistemas 
-GOOD TIMES!
+Tercera linea de comando
